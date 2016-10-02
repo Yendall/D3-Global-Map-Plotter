@@ -90,7 +90,7 @@ function setupMap() {
     svg.selectAll(".pin").data(places)
         .enter().append("circle", ".pin")
         .style("fill", function(d) {
-            return getColour(d.Goldstein);
+            return getColour(d.Average_Tone);
         })
         .style("stroke", "#000")
         .style("stroke-width", 0.5)
