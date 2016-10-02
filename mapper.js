@@ -19,25 +19,25 @@ function readSingleFile(e) {
 
 function getProportion(value) {
     if (between(value, 0, 30)) {
-        return 2;
+        return 1.0;
     }
     if (between(value, 30, 60)) {
-        return 2.5;
+        return 1.5;
     }
     if (between(value, 60, 100)) {
-        return 3;
+        return 2.0;
     }
     if (between(value, 100, 300)) {
-        return 3.5;
+        return 2.5;
     }
     if (between(value, 300, 500)) {
-        return 4.0;
+        return 3.0;
     }
     if (between(value, 500, 1000)) {
-        return 4.5;
+        return 4.0;
     }
     if (between(value, 1000, 2000)) {
-        return 5.0;
+        return 4.5;
     }
 }
 
@@ -55,6 +55,10 @@ function setupMap() {
         .attr("width", width)
         .attr("height", height)
         .attr("id", "dank_meme");
+    svg.append("rect")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .attr("fill", "#151515");
     svg.append("path")
         .datum(graticule)
         .attr("class", "graticule")
@@ -86,7 +90,7 @@ function setupMap() {
     svg.selectAll(".pin").data(places)
         .enter().append("circle", ".pin")
         .style("fill", function(d) {
-            return getColour(d.Average_Tone);
+            return getColour(d.Goldstein);
         })
         .style("stroke", "#000")
         .style("stroke-width", 0.5)
