@@ -1,0 +1,3610 @@
+[
+  {
+    "Country": "Australia",
+    "Longitude": 115.833,
+    "Latitude": -31.9333,
+    "Average_Tone": 4,
+    "Mentions": 158,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 121.202,
+    "Latitude": -31.0293,
+    "Average_Tone": 7,
+    "Mentions": 18,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 139.158,
+    "Latitude": -35.4343,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 143,
+    "Latitude": -25,
+    "Average_Tone": 6,
+    "Mentions": 27,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 143.338,
+    "Latitude": -37.9527,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 149.217,
+    "Latitude": -35.2833,
+    "Average_Tone": 4,
+    "Mentions": 58,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 150.506,
+    "Latitude": -23.3803,
+    "Average_Tone": 4,
+    "Mentions": 10,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 151.217,
+    "Latitude": -33.8833,
+    "Average_Tone": 3,
+    "Mentions": 22,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 151.954,
+    "Latitude": -27.5606,
+    "Average_Tone": 5,
+    "Mentions": 23,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 153.09,
+    "Latitude": -26.3943,
+    "Average_Tone": 4,
+    "Mentions": 14,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Bahamas",
+    "Longitude": -77.9167,
+    "Latitude": 26.6167,
+    "Average_Tone": 11,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Belgium",
+    "Longitude": 4.33333,
+    "Latitude": 50.8333,
+    "Average_Tone": 6,
+    "Mentions": 53,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -43.2333,
+    "Latitude": -22.9,
+    "Average_Tone": 6,
+    "Mentions": 18,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -48.4833,
+    "Latitude": -1.45,
+    "Average_Tone": 3,
+    "Mentions": 5,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -50.05,
+    "Latitude": -25.35,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -55,
+    "Latitude": -10,
+    "Average_Tone": 6,
+    "Mentions": 7,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -63.4106,
+    "Latitude": -5.68333,
+    "Average_Tone": 4,
+    "Mentions": 10,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Cambodia",
+    "Longitude": 104.917,
+    "Latitude": 11.55,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Cameroon",
+    "Longitude": 12,
+    "Latitude": 6,
+    "Average_Tone": 4,
+    "Mentions": 52,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -117.617,
+    "Latitude": 49.0167,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -123.083,
+    "Latitude": 49.0167,
+    "Average_Tone": 8,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -72,
+    "Latitude": 47.5,
+    "Average_Tone": 5,
+    "Mentions": 4,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Chile",
+    "Longitude": -71.4122,
+    "Latitude": -32.7275,
+    "Average_Tone": 3,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Chile",
+    "Longitude": -72,
+    "Latitude": -52.4167,
+    "Average_Tone": 5,
+    "Mentions": 16,
+    "Goldstein": -4
+  },
+  {
+    "Country": "China",
+    "Longitude": 104.299,
+    "Latitude": 28.6208,
+    "Average_Tone": 5,
+    "Mentions": 12,
+    "Goldstein": -4
+  },
+  {
+    "Country": "China",
+    "Longitude": 110.536,
+    "Latitude": 19.5378,
+    "Average_Tone": 5,
+    "Mentions": 41,
+    "Goldstein": -2
+  },
+  {
+    "Country": "China",
+    "Longitude": 116.388,
+    "Latitude": 39.9289,
+    "Average_Tone": 5,
+    "Mentions": 487,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Cyprus",
+    "Longitude": 33.9833,
+    "Latitude": 35.0375,
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Denmark",
+    "Longitude": 10,
+    "Latitude": 56,
+    "Average_Tone": 3,
+    "Mentions": 7,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Egypt",
+    "Longitude": 29.9192,
+    "Latitude": 31.1981,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Egypt",
+    "Longitude": 30,
+    "Latitude": 27,
+    "Average_Tone": 5,
+    "Mentions": 6,
+    "Goldstein": -5
+  },
+  {
+    "Country": "ElSalvador",
+    "Longitude": -88.9167,
+    "Latitude": 13.8333,
+    "Average_Tone": 3,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Ethiopia",
+    "Longitude": 37.5167,
+    "Latitude": 12.8667,
+    "Average_Tone": 10,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Finland",
+    "Longitude": 25.8333,
+    "Latitude": 61.0667,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "France",
+    "Longitude": 4.82823,
+    "Latitude": 46.3141,
+    "Average_Tone": 2,
+    "Mentions": 4,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Germany",
+    "Longitude": 9,
+    "Latitude": 51,
+    "Average_Tone": 5,
+    "Mentions": 14,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Greece",
+    "Longitude": 23.7333,
+    "Latitude": 37.9833,
+    "Average_Tone": 11,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Honduras",
+    "Longitude": -88.6333,
+    "Latitude": 14.7,
+    "Average_Tone": 2,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Hungary",
+    "Longitude": 21.6333,
+    "Latitude": 47.5333,
+    "Average_Tone": 3,
+    "Mentions": 7,
+    "Goldstein": -5
+  },
+  {
+    "Country": "India",
+    "Longitude": 72.7,
+    "Latitude": 24.6,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "India",
+    "Longitude": 73.8667,
+    "Latitude": 18.5333,
+    "Average_Tone": 3,
+    "Mentions": 3,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Indonesia",
+    "Longitude": 105.911,
+    "Latitude": -6.3205,
+    "Average_Tone": 2,
+    "Mentions": 8,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Iran",
+    "Longitude": 51.0103,
+    "Latitude": 35.8355,
+    "Average_Tone": 4,
+    "Mentions": 7,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Israel",
+    "Longitude": 34.7667,
+    "Latitude": 32.0667,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Israel",
+    "Longitude": 35.2333,
+    "Latitude": 31.7667,
+    "Average_Tone": 4,
+    "Mentions": 25,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Italy",
+    "Longitude": 12.8333,
+    "Latitude": 42.8333,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Italy",
+    "Longitude": 7.66667,
+    "Latitude": 45.05,
+    "Average_Tone": 5,
+    "Mentions": 5,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Kenya",
+    "Longitude": 36.8167,
+    "Latitude": -1.28333,
+    "Average_Tone": 4,
+    "Mentions": 27,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Kenya",
+    "Longitude": 36.9476,
+    "Latitude": -0.420132,
+    "Average_Tone": 9,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Laos",
+    "Longitude": 105,
+    "Latitude": 18,
+    "Average_Tone": 3,
+    "Mentions": 35,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Mexico",
+    "Longitude": -102,
+    "Latitude": 23,
+    "Average_Tone": 6,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Netherlands",
+    "Longitude": 4.75561,
+    "Latitude": 52.6358,
+    "Average_Tone": 5,
+    "Mentions": 24,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Netherlands",
+    "Longitude": 4.91667,
+    "Latitude": 52.35,
+    "Average_Tone": 5,
+    "Mentions": 12,
+    "Goldstein": -7
+  },
+  {
+    "Country": "NewZealand",
+    "Longitude": 173.683,
+    "Latitude": -42.4167,
+    "Average_Tone": 8,
+    "Mentions": 6,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Nigeria",
+    "Longitude": 5.9431,
+    "Latitude": 5.45054,
+    "Average_Tone": 8,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Oceans",
+    "Longitude": 3,
+    "Latitude": 55.3333,
+    "Average_Tone": 2,
+    "Mentions": 48,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Pakistan",
+    "Longitude": 70,
+    "Latitude": 30,
+    "Average_Tone": 4,
+    "Mentions": 23,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Pakistan",
+    "Longitude": 74.3436,
+    "Latitude": 31.5497,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 120.982,
+    "Latitude": 14.6042,
+    "Average_Tone": 5,
+    "Mentions": 16,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 122,
+    "Latitude": 13,
+    "Average_Tone": 6,
+    "Mentions": 7,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 122.893,
+    "Latitude": 11.0336,
+    "Average_Tone": 3,
+    "Mentions": 24,
+    "Goldstein": -8
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 122.907,
+    "Latitude": 14.222,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 123.367,
+    "Latitude": 10.8487,
+    "Average_Tone": 10,
+    "Mentions": 7,
+    "Goldstein": -10
+  },
+  {
+    "Country": "SaintHelena",
+    "Longitude": -5.71667,
+    "Latitude": -15.9333,
+    "Average_Tone": 2,
+    "Mentions": 4,
+    "Goldstein": -10
+  },
+  {
+    "Country": "SaudiArabia",
+    "Longitude": 45,
+    "Latitude": 25,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "SouthAfrica",
+    "Longitude": 31.5,
+    "Latitude": -23.8333,
+    "Average_Tone": 3,
+    "Mentions": 32,
+    "Goldstein": -4
+  },
+  {
+    "Country": "SouthAfrica",
+    "Longitude": 32.0749,
+    "Latitude": -27.7677,
+    "Average_Tone": 3,
+    "Mentions": 48,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Spain",
+    "Longitude": -1.74901,
+    "Latitude": 37.2879,
+    "Average_Tone": 2,
+    "Mentions": 3,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Spain",
+    "Longitude": -4,
+    "Latitude": 40,
+    "Average_Tone": 5,
+    "Mentions": 11,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Spain",
+    "Longitude": -5.81969,
+    "Latitude": 43.6214,
+    "Average_Tone": 5,
+    "Mentions": 18,
+    "Goldstein": -10
+  },
+  {
+    "Country": "SriLanka",
+    "Longitude": 80.0137,
+    "Latitude": 9.6567,
+    "Average_Tone": 4,
+    "Mentions": 12,
+    "Goldstein": -10
+  },
+  {
+    "Country": "SriLanka",
+    "Longitude": 80.4991,
+    "Latitude": 7.1941,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "SriLanka",
+    "Longitude": 80.8333,
+    "Latitude": 6.45,
+    "Average_Tone": 3,
+    "Mentions": 7,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Sweden",
+    "Longitude": 17.9,
+    "Latitude": 64.7833,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Switzerland",
+    "Longitude": 8.55,
+    "Latitude": 47.3667,
+    "Average_Tone": 3,
+    "Mentions": 1,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Tanzania",
+    "Longitude": 33,
+    "Latitude": -8.45,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Thailand",
+    "Longitude": 100.274,
+    "Latitude": 13.5475,
+    "Average_Tone": 5,
+    "Mentions": 5,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Turkey",
+    "Longitude": 32.8644,
+    "Latitude": 39.9272,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Turkey",
+    "Longitude": 32.8761,
+    "Latitude": 39.9115,
+    "Average_Tone": 4,
+    "Mentions": 10,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Turkey",
+    "Longitude": 37.3625,
+    "Latitude": 40.3644,
+    "Average_Tone": 8,
+    "Mentions": 9,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Turkey",
+    "Longitude": 37.8423,
+    "Latitude": 41.0027,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedArabEmirates",
+    "Longitude": 54.3667,
+    "Latitude": 24.4667,
+    "Average_Tone": 2,
+    "Mentions": 22,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": -1.28333,
+    "Latitude": 51.3833,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": -1.93333,
+    "Latitude": 50.65,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": -5.27222,
+    "Latitude": 50.0997,
+    "Average_Tone": 2,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": 0.85,
+    "Latitude": 51.1,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -105.591,
+    "Latitude": 41.3114,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -107.209,
+    "Latitude": 42.7475,
+    "Average_Tone": 3,
+    "Mentions": 109,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -107.701,
+    "Latitude": 38.0814,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -109.585,
+    "Latitude": 33.9106,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -109.708,
+    "Latitude": 32.834,
+    "Average_Tone": 4,
+    "Mentions": 10,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -111.658,
+    "Latitude": 35.19,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -117.122,
+    "Latitude": 38.4199,
+    "Average_Tone": 5,
+    "Mentions": 36,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -117.497,
+    "Latitude": 47.8741,
+    "Average_Tone": 4,
+    "Mentions": 10,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -118.106,
+    "Latitude": 34.0961,
+    "Average_Tone": 3,
+    "Mentions": 3,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -118.911,
+    "Latitude": 39.4946,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -119.712,
+    "Latitude": 36.9877,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -119.746,
+    "Latitude": 36.17,
+    "Average_Tone": 5,
+    "Mentions": 118,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -119.814,
+    "Latitude": 39.5296,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -122.127,
+    "Latitude": 44.5672,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -122.271,
+    "Latitude": 37.8044,
+    "Average_Tone": 4,
+    "Mentions": 14,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -157.531,
+    "Latitude": 21.1098,
+    "Average_Tone": 4,
+    "Mentions": 47,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -163.008,
+    "Latitude": 69.7439,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -68.9564,
+    "Latitude": 46.0912,
+    "Average_Tone": 5,
+    "Mentions": 3,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -69.3977,
+    "Latitude": 44.6074,
+    "Average_Tone": 4,
+    "Mentions": 17,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -71.5314,
+    "Latitude": 42.2373,
+    "Average_Tone": 9,
+    "Mentions": 14,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -72.634,
+    "Latitude": 43.8334,
+    "Average_Tone": 1,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -72.7093,
+    "Latitude": 44.0407,
+    "Average_Tone": 4,
+    "Mentions": 148,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -73.401,
+    "Latitude": 41.0632,
+    "Average_Tone": 8,
+    "Mentions": 8,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -74.9384,
+    "Latitude": 42.1497,
+    "Average_Tone": 6,
+    "Mentions": 218,
+    "Goldstein": -3
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -75.0821,
+    "Latitude": 43.2587,
+    "Average_Tone": 6,
+    "Mentions": 3,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -75.4685,
+    "Latitude": 35.5668,
+    "Average_Tone": 3,
+    "Mentions": 18,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -76.383,
+    "Latitude": 38.5168,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -76.6247,
+    "Latitude": 39.1626,
+    "Average_Tone": 5,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -76.7902,
+    "Latitude": 39.0724,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -77.0003,
+    "Latitude": 38.889,
+    "Average_Tone": 4,
+    "Mentions": 1,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -77.0262,
+    "Latitude": 38.8964,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -77.0726,
+    "Latitude": 38.9073,
+    "Average_Tone": 7,
+    "Mentions": 11,
+    "Goldstein": -3
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -77.264,
+    "Latitude": 40.5773,
+    "Average_Tone": 4,
+    "Mentions": 90,
+    "Goldstein": -8
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -77.4469,
+    "Latitude": 41.137,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -78.245,
+    "Latitude": 34.7749,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -79.1342,
+    "Latitude": 33.9371,
+    "Average_Tone": 7,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -81.717,
+    "Latitude": 27.8333,
+    "Average_Tone": 5,
+    "Mentions": 130,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -82.5612,
+    "Latitude": 27.5359,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -83.0458,
+    "Latitude": 42.3314,
+    "Average_Tone": 2,
+    "Mentions": 2,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -84.3833,
+    "Latitude": 42.6,
+    "Average_Tone": 6,
+    "Mentions": 36,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -84.6514,
+    "Latitude": 37.669,
+    "Average_Tone": 5,
+    "Mentions": 145,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -86.7489,
+    "Latitude": 35.7449,
+    "Average_Tone": 6,
+    "Mentions": 23,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -86.9225,
+    "Latitude": 40.4281,
+    "Average_Tone": 3,
+    "Mentions": 39,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -87.0494,
+    "Latitude": 37.8831,
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -87.6501,
+    "Latitude": 41.85,
+    "Average_Tone": 5,
+    "Mentions": 49,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -89.0022,
+    "Latitude": 40.3363,
+    "Average_Tone": 4,
+    "Mentions": 28,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -89.6385,
+    "Latitude": 44.2563,
+    "Average_Tone": 5,
+    "Mentions": 14,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -92.302,
+    "Latitude": 38.4623,
+    "Average_Tone": 2,
+    "Mentions": 1,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -92.4071,
+    "Latitude": 31.5257,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -92.9002,
+    "Latitude": 45.5005,
+    "Average_Tone": 6,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -93.9196,
+    "Latitude": 45.7326,
+    "Average_Tone": 6,
+    "Mentions": 44,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -94.4413,
+    "Latitude": 33.3151,
+    "Average_Tone": 7,
+    "Mentions": 5,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -95.3633,
+    "Latitude": 29.7633,
+    "Average_Tone": 4,
+    "Mentions": 34,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -95.9378,
+    "Latitude": 41.2586,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -96.9247,
+    "Latitude": 35.5376,
+    "Average_Tone": 4,
+    "Mentions": 46,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -99.7331,
+    "Latitude": 32.4487,
+    "Average_Tone": 4,
+    "Mentions": 10,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Vietnam",
+    "Longitude": 105.85,
+    "Latitude": 21.0333,
+    "Average_Tone": 4,
+    "Mentions": 34,
+    "Goldstein": -4
+  },
+  {
+    "Country": "WestBank",
+    "Longitude": 35.25,
+    "Latitude": 31.6667,
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Yemen",
+    "Longitude": 48,
+    "Latitude": 15,
+    "Average_Tone": 9,
+    "Mentions": 2,
+    "Goldstein": -4
+  },
+  {
+    "Country": "null",
+    "Longitude": 180,
+    "Latitude": 0,
+    "Average_Tone": 3,
+    "Mentions": 14,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Afghanistan",
+    "Longitude": 69.1833,
+    "Latitude": 34.5167,
+    "Average_Tone": 7,
+    "Mentions": 36,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Antarctica",
+    "Longitude": 32.3438,
+    "Latitude": -85.6221,
+    "Average_Tone": 6,
+    "Mentions": 4,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 115.273,
+    "Latitude": -29.1843,
+    "Average_Tone": 5,
+    "Mentions": 6,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 118.3,
+    "Latitude": -21.25,
+    "Average_Tone": 4,
+    "Mentions": 147,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 122.133,
+    "Latitude": -17.5,
+    "Average_Tone": 6,
+    "Mentions": 18,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 147.914,
+    "Latitude": -42.5018,
+    "Average_Tone": 5,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 149.96,
+    "Latitude": -26.1229,
+    "Average_Tone": 3,
+    "Mentions": 159,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 150.63,
+    "Latitude": -26.7379,
+    "Average_Tone": 3,
+    "Mentions": 18,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 153.083,
+    "Latitude": -26.55,
+    "Average_Tone": 4,
+    "Mentions": 10,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -38.8833,
+    "Latitude": -13.6,
+    "Average_Tone": 4,
+    "Mentions": 1,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -47.7667,
+    "Latitude": -2.15,
+    "Average_Tone": 1,
+    "Mentions": 42,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -47.9167,
+    "Latitude": -15.7833,
+    "Average_Tone": 5,
+    "Mentions": 18,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -49.1167,
+    "Latitude": -5.35,
+    "Average_Tone": 2,
+    "Mentions": 12,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -61.95,
+    "Latitude": -10.8667,
+    "Average_Tone": 4,
+    "Mentions": 7,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Bulgaria",
+    "Longitude": 22.8981,
+    "Latitude": 42.7414,
+    "Average_Tone": 6,
+    "Mentions": 3,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Bulgaria",
+    "Longitude": 23.1667,
+    "Latitude": 41.8,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Cambodia",
+    "Longitude": 105,
+    "Latitude": 13,
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -114,
+    "Latitude": 50,
+    "Average_Tone": 4,
+    "Mentions": 50,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -123.133,
+    "Latitude": 49.25,
+    "Average_Tone": 5,
+    "Mentions": 7,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -133.7,
+    "Latitude": 68.35,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -55.3333,
+    "Latitude": 51.9167,
+    "Average_Tone": 2,
+    "Mentions": 7,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -95,
+    "Latitude": 60,
+    "Average_Tone": 5,
+    "Mentions": 316,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -97.1667,
+    "Latitude": 49.8833,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Chile",
+    "Longitude": -72.7,
+    "Latitude": -45.4,
+    "Average_Tone": 4,
+    "Mentions": 24,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Chile",
+    "Longitude": -72.9447,
+    "Latitude": -41.4698,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "China",
+    "Longitude": 105,
+    "Latitude": 35,
+    "Average_Tone": 4,
+    "Mentions": 440,
+    "Goldstein": -3
+  },
+  {
+    "Country": "China",
+    "Longitude": 109.832,
+    "Latitude": 27.0039,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "China",
+    "Longitude": 116.646,
+    "Latitude": 26.4796,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "China",
+    "Longitude": 119.794,
+    "Latitude": 28.0355,
+    "Average_Tone": 5,
+    "Mentions": 52,
+    "Goldstein": -2
+  },
+  {
+    "Country": "China",
+    "Longitude": 121.458,
+    "Latitude": 31.2222,
+    "Average_Tone": 5,
+    "Mentions": 91,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Cuba",
+    "Longitude": -82.3642,
+    "Latitude": 23.1319,
+    "Average_Tone": 5,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Cyprus",
+    "Longitude": 32.4167,
+    "Latitude": 34.7667,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Egypt",
+    "Longitude": 30.9401,
+    "Latitude": 31.1143,
+    "Average_Tone": 5,
+    "Mentions": 6,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Egypt",
+    "Longitude": 31.25,
+    "Latitude": 30.05,
+    "Average_Tone": 6,
+    "Mentions": 15,
+    "Goldstein": -2
+  },
+  {
+    "Country": "France",
+    "Longitude": 5.73333,
+    "Latitude": 45.6333,
+    "Average_Tone": 2,
+    "Mentions": 3,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Germany",
+    "Longitude": 13.4,
+    "Latitude": 52.5167,
+    "Average_Tone": 6,
+    "Mentions": 174,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Ghana",
+    "Longitude": -1.34804,
+    "Latitude": 5.08981,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Greenland",
+    "Longitude": -40,
+    "Latitude": 72,
+    "Average_Tone": 4,
+    "Mentions": 14,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Hungary",
+    "Longitude": 17.6376,
+    "Latitude": 47.6873,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -5
+  },
+  {
+    "Country": "India",
+    "Longitude": 72.9667,
+    "Latitude": 19.2,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "India",
+    "Longitude": 73.35,
+    "Latitude": 16.6167,
+    "Average_Tone": 3,
+    "Mentions": 10,
+    "Goldstein": -7
+  },
+  {
+    "Country": "India",
+    "Longitude": 73.9833,
+    "Latitude": 17.55,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "India",
+    "Longitude": 77.2167,
+    "Latitude": 28.6667,
+    "Average_Tone": 3,
+    "Mentions": 12,
+    "Goldstein": -3
+  },
+  {
+    "Country": "India",
+    "Longitude": 77.4,
+    "Latitude": 23.2667,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "India",
+    "Longitude": 91.7333,
+    "Latitude": 26.1833,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -9
+  },
+  {
+    "Country": "India",
+    "Longitude": 93,
+    "Latitude": 26,
+    "Average_Tone": 3,
+    "Mentions": 36,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Indonesia",
+    "Longitude": 97.2947,
+    "Latitude": 5.0438,
+    "Average_Tone": 5,
+    "Mentions": 54,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Ireland",
+    "Longitude": -6.21611,
+    "Latitude": 53.3592,
+    "Average_Tone": 3,
+    "Mentions": 1,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Ireland",
+    "Longitude": -8,
+    "Latitude": 53,
+    "Average_Tone": 3,
+    "Mentions": 20,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Israel",
+    "Longitude": 34.75,
+    "Latitude": 31.5,
+    "Average_Tone": 5,
+    "Mentions": 14,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Israel",
+    "Longitude": 35.5,
+    "Latitude": 31.5,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Italy",
+    "Longitude": 12.4833,
+    "Latitude": 41.9,
+    "Average_Tone": 3,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Jamaica",
+    "Longitude": -76.4612,
+    "Latitude": 18.18,
+    "Average_Tone": 6,
+    "Mentions": 94,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Japan",
+    "Longitude": 140.219,
+    "Latitude": 38.7903,
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Jersey",
+    "Longitude": -2.12585,
+    "Latitude": 49.1961,
+    "Average_Tone": 5,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Jordan",
+    "Longitude": 35.9333,
+    "Latitude": 31.95,
+    "Average_Tone": 3,
+    "Mentions": 3,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Jordan",
+    "Longitude": 36,
+    "Latitude": 31,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Kenya",
+    "Longitude": 38,
+    "Latitude": 1,
+    "Average_Tone": 9,
+    "Mentions": 25,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Madagascar",
+    "Longitude": 47,
+    "Latitude": -20,
+    "Average_Tone": 3,
+    "Mentions": 60,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Malaysia",
+    "Longitude": 101.367,
+    "Latitude": 5.33333,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Malaysia",
+    "Longitude": 101.7,
+    "Latitude": 3.16667,
+    "Average_Tone": 5,
+    "Mentions": 58,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Malaysia",
+    "Longitude": 112.5,
+    "Latitude": 2.5,
+    "Average_Tone": 4,
+    "Mentions": 20,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Mexico",
+    "Longitude": -100.733,
+    "Latitude": 21.9333,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Myanmar",
+    "Longitude": 94.1333,
+    "Latitude": 21.6167,
+    "Average_Tone": 6,
+    "Mentions": 88,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Myanmar",
+    "Longitude": 95.1,
+    "Latitude": 15.8333,
+    "Average_Tone": 7,
+    "Mentions": 3,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Myanmar",
+    "Longitude": 96.1297,
+    "Latitude": 19.745,
+    "Average_Tone": 5,
+    "Mentions": 51,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Myanmar",
+    "Longitude": 96.1561,
+    "Latitude": 16.8053,
+    "Average_Tone": 6,
+    "Mentions": 23,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Netherlands",
+    "Longitude": 5.75,
+    "Latitude": 52.5,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "NewZealand",
+    "Longitude": 174,
+    "Latitude": -41,
+    "Average_Tone": 7,
+    "Mentions": 68,
+    "Goldstein": -5
+  },
+  {
+    "Country": "NorthernMarianaIslands",
+    "Longitude": 144.888,
+    "Latitude": 19.4355,
+    "Average_Tone": 3,
+    "Mentions": 22,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Norway",
+    "Longitude": 10,
+    "Latitude": 62,
+    "Average_Tone": 7,
+    "Mentions": 32,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Oman",
+    "Longitude": 58.6158,
+    "Latitude": 23.5671,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Paraguay",
+    "Longitude": -58,
+    "Latitude": -23,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Peru",
+    "Longitude": -78.5167,
+    "Latitude": -7.16667,
+    "Average_Tone": 4,
+    "Mentions": 11,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 121.049,
+    "Latitude": 14.9109,
+    "Average_Tone": 3,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 121.417,
+    "Latitude": 14.4622,
+    "Average_Tone": 6,
+    "Mentions": 2,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 123.4,
+    "Latitude": 8.63333,
+    "Average_Tone": 6,
+    "Mentions": 7,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Poland",
+    "Longitude": 21,
+    "Latitude": 52.25,
+    "Average_Tone": 3,
+    "Mentions": 18,
+    "Goldstein": -2
+  },
+  {
+    "Country": "PuertoRico",
+    "Longitude": -66.4838,
+    "Latitude": 18.2359,
+    "Average_Tone": 5,
+    "Mentions": 14,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Romania",
+    "Longitude": 22.2333,
+    "Latitude": 47.6833,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Russia",
+    "Longitude": 100,
+    "Latitude": 60,
+    "Average_Tone": 7,
+    "Mentions": 13,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Russia",
+    "Longitude": 56.3,
+    "Latitude": 54.2,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Seychelles",
+    "Longitude": 55.45,
+    "Latitude": -4.61667,
+    "Average_Tone": 5,
+    "Mentions": 81,
+    "Goldstein": -8
+  },
+  {
+    "Country": "SouthAfrica",
+    "Longitude": 30.6365,
+    "Latitude": -29.8129,
+    "Average_Tone": 4,
+    "Mentions": 18,
+    "Goldstein": -2
+  },
+  {
+    "Country": "SouthAfrica",
+    "Longitude": 31.0167,
+    "Latitude": -29.85,
+    "Average_Tone": 5,
+    "Mentions": 12,
+    "Goldstein": -6
+  },
+  {
+    "Country": "SriLanka",
+    "Longitude": 81,
+    "Latitude": 7,
+    "Average_Tone": 3,
+    "Mentions": 14,
+    "Goldstein": -8
+  },
+  {
+    "Country": "Sudan",
+    "Longitude": 33.2,
+    "Latitude": 19,
+    "Average_Tone": 5,
+    "Mentions": 4,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Taiwan",
+    "Longitude": 120.383,
+    "Latitude": 23.9833,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Taiwan",
+    "Longitude": 121.599,
+    "Latitude": 23.8694,
+    "Average_Tone": 5,
+    "Mentions": 18,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Tanzania",
+    "Longitude": 36.35,
+    "Latitude": -8.4,
+    "Average_Tone": 3,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Thailand",
+    "Longitude": 100.642,
+    "Latitude": 13.6674,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": -1.11667,
+    "Latitude": 51.5,
+    "Average_Tone": 4,
+    "Mentions": 10,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -105.327,
+    "Latitude": 39.0646,
+    "Average_Tone": 4,
+    "Mentions": 43,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -107.592,
+    "Latitude": 38.8683,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -108.501,
+    "Latitude": 45.7833,
+    "Average_Tone": 6,
+    "Mentions": 4,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -109.607,
+    "Latitude": 32.1917,
+    "Average_Tone": 4,
+    "Mentions": 7,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -110.326,
+    "Latitude": 46.9048,
+    "Average_Tone": 3,
+    "Mentions": 137,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -110.38,
+    "Latitude": 33.4795,
+    "Average_Tone": 4,
+    "Mentions": 18,
+    "Goldstein": -3
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -110.917,
+    "Latitude": 43.3583,
+    "Average_Tone": 3,
+    "Mentions": 18,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -111.849,
+    "Latitude": 40.7649,
+    "Average_Tone": 2,
+    "Mentions": 267,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -111.854,
+    "Latitude": 40.1135,
+    "Average_Tone": 4,
+    "Mentions": 118,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -111.984,
+    "Latitude": 33.3417,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -112.074,
+    "Latitude": 33.4484,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -112.148,
+    "Latitude": 40.5416,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -113.994,
+    "Latitude": 46.8721,
+    "Average_Tone": 4,
+    "Mentions": 13,
+    "Goldstein": -7
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -114.51,
+    "Latitude": 44.2394,
+    "Average_Tone": 4,
+    "Mentions": 42,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -117.901,
+    "Latitude": 33.587,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -118.596,
+    "Latitude": 47.3429,
+    "Average_Tone": 3,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -120.033,
+    "Latitude": 39.096,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -120.911,
+    "Latitude": 39.9913,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -121.494,
+    "Latitude": 38.5816,
+    "Average_Tone": 5,
+    "Mentions": 8,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -121.768,
+    "Latitude": 37.6819,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -122.47,
+    "Latitude": 48.75,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -122.65,
+    "Latitude": 47.6632,
+    "Average_Tone": 6,
+    "Mentions": 7,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -122.709,
+    "Latitude": 42.1946,
+    "Average_Tone": 2,
+    "Mentions": 4,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -124.218,
+    "Latitude": 43.3665,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -152.268,
+    "Latitude": 61.385,
+    "Average_Tone": 6,
+    "Mentions": 182,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -71.0598,
+    "Latitude": 42.3584,
+    "Average_Tone": 5,
+    "Mentions": 15,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -71.5101,
+    "Latitude": 41.6772,
+    "Average_Tone": 6,
+    "Mentions": 4,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -71.5653,
+    "Latitude": 43.4108,
+    "Average_Tone": 2,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -73.9662,
+    "Latitude": 40.7834,
+    "Average_Tone": 6,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -74.0114,
+    "Latitude": 40.7092,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -74.0496,
+    "Latitude": 40.9334,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -74.5089,
+    "Latitude": 40.314,
+    "Average_Tone": 7,
+    "Mentions": 18,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -75.3724,
+    "Latitude": 38.6604,
+    "Average_Tone": 3,
+    "Mentions": 2,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -77.0178,
+    "Latitude": 38.8773,
+    "Average_Tone": 5,
+    "Mentions": 719,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -77.0364,
+    "Latitude": 38.8951,
+    "Average_Tone": 4,
+    "Mentions": 1803,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -78.2057,
+    "Latitude": 37.768,
+    "Average_Tone": 3,
+    "Mentions": 12,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -79.8431,
+    "Latitude": 35.6411,
+    "Average_Tone": 7,
+    "Mentions": 24,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -79.9309,
+    "Latitude": 32.7766,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -80.9696,
+    "Latitude": 38.468,
+    "Average_Tone": 4,
+    "Mentions": 23,
+    "Goldstein": -3
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -82.0223,
+    "Latitude": 26.449,
+    "Average_Tone": 9,
+    "Mentions": 2,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -82.739,
+    "Latitude": 37.4529,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -82.7755,
+    "Latitude": 40.3736,
+    "Average_Tone": 7,
+    "Mentions": 20,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -82.794,
+    "Latitude": 30.5735,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -86.2604,
+    "Latitude": 39.8647,
+    "Average_Tone": 5,
+    "Mentions": 63,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -88.4154,
+    "Latitude": 44.2619,
+    "Average_Tone": 6,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -89.9367,
+    "Latitude": 29.1869,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -90.0751,
+    "Latitude": 29.9546,
+    "Average_Tone": 3,
+    "Mentions": 163,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -93.6091,
+    "Latitude": 41.6005,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -94.3483,
+    "Latitude": 35.4368,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -7
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -94.5766,
+    "Latitude": 30.9569,
+    "Average_Tone": 4,
+    "Mentions": 36,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -95.3775,
+    "Latitude": 45.8852,
+    "Average_Tone": 5,
+    "Mentions": 10,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -95.678,
+    "Latitude": 39.0483,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -96.8044,
+    "Latitude": 28.4347,
+    "Average_Tone": 3,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -97.6475,
+    "Latitude": 31.106,
+    "Average_Tone": 5,
+    "Mentions": 363,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -97.7714,
+    "Latitude": 30.2638,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -98.7684,
+    "Latitude": 26.3545,
+    "Average_Tone": 6,
+    "Mentions": 6,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -99.4732,
+    "Latitude": 40.3667,
+    "Average_Tone": 6,
+    "Mentions": 25,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": 0,
+    "Latitude": 0,
+    "Average_Tone": 5,
+    "Mentions": 8,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Uzbekistan",
+    "Longitude": 69.25,
+    "Latitude": 41.3167,
+    "Average_Tone": 5,
+    "Mentions": 1,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Vietnam",
+    "Longitude": 106,
+    "Latitude": 16,
+    "Average_Tone": 8,
+    "Mentions": 5,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Zimbabwe",
+    "Longitude": 25.7667,
+    "Latitude": -18.05,
+    "Average_Tone": 3,
+    "Mentions": 18,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Zimbabwe",
+    "Longitude": 30.6167,
+    "Latitude": -20.75,
+    "Average_Tone": 3,
+    "Mentions": 22,
+    "Goldstein": -4
+  },
+  {
+    "Country": "",
+    "Longitude": 0,
+    "Latitude": 0,
+    "Average_Tone": 4,
+    "Mentions": 674,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 133,
+    "Latitude": -27,
+    "Average_Tone": 5,
+    "Mentions": 259,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 149.166,
+    "Latitude": -21.1535,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 150.064,
+    "Latitude": -36.419,
+    "Average_Tone": 6,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 151.117,
+    "Latitude": -29.9333,
+    "Average_Tone": 6,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 152.658,
+    "Latitude": -26.1892,
+    "Average_Tone": 4,
+    "Mentions": 14,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 153.017,
+    "Latitude": -27.5,
+    "Average_Tone": 4,
+    "Mentions": 1,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Australia",
+    "Longitude": 153.517,
+    "Latitude": -28.6167,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Austria",
+    "Longitude": 13.3333,
+    "Latitude": 47.3333,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Belize",
+    "Longitude": -88.75,
+    "Latitude": 17.25,
+    "Average_Tone": 3,
+    "Mentions": 18,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -40.3167,
+    "Latitude": -13.6667,
+    "Average_Tone": 4,
+    "Mentions": 48,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -40.8833,
+    "Latitude": -12.4667,
+    "Average_Tone": 6,
+    "Mentions": 8,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Brazil",
+    "Longitude": -43.8333,
+    "Latitude": -19.7167,
+    "Average_Tone": 3,
+    "Mentions": 5,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Bulgaria",
+    "Longitude": 23.3167,
+    "Latitude": 42.6833,
+    "Average_Tone": 4,
+    "Mentions": 14,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -111.3,
+    "Latitude": 52.6833,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -75.7,
+    "Latitude": 45.4167,
+    "Average_Tone": 4,
+    "Mentions": 19,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -79.4167,
+    "Latitude": 43.6667,
+    "Average_Tone": 5,
+    "Mentions": 19,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -81.1333,
+    "Latitude": 44.0833,
+    "Average_Tone": 6,
+    "Mentions": 2,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Canada",
+    "Longitude": -82.4,
+    "Latitude": 42.9667,
+    "Average_Tone": 3,
+    "Mentions": 2,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Chile",
+    "Longitude": -70.6667,
+    "Latitude": -33.45,
+    "Average_Tone": 4,
+    "Mentions": 237,
+    "Goldstein": -3
+  },
+  {
+    "Country": "China",
+    "Longitude": 111.912,
+    "Latitude": 27.2022,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "China",
+    "Longitude": 116.656,
+    "Latitude": 36.8083,
+    "Average_Tone": 7,
+    "Mentions": 54,
+    "Goldstein": -2
+  },
+  {
+    "Country": "CzechRepublic",
+    "Longitude": 13.6331,
+    "Latitude": 48.9769,
+    "Average_Tone": 2,
+    "Mentions": 28,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Denmark",
+    "Longitude": 12.5833,
+    "Latitude": 55.6667,
+    "Average_Tone": 6,
+    "Mentions": 18,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Ethiopia",
+    "Longitude": 38,
+    "Latitude": 8,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Finland",
+    "Longitude": 26.05,
+    "Latitude": 63.3833,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "France",
+    "Longitude": 2,
+    "Latitude": 46,
+    "Average_Tone": 2,
+    "Mentions": 56,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Ghana",
+    "Longitude": -2,
+    "Latitude": 8,
+    "Average_Tone": 5,
+    "Mentions": 21,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Greenland",
+    "Longitude": -51.75,
+    "Latitude": 64.1833,
+    "Average_Tone": 6,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "India",
+    "Longitude": 77.5833,
+    "Latitude": 12.9833,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "India",
+    "Longitude": 80.6167,
+    "Latitude": 22.2833,
+    "Average_Tone": 4,
+    "Mentions": 13,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Indonesia",
+    "Longitude": 110.004,
+    "Latitude": -7.49167,
+    "Average_Tone": 5,
+    "Mentions": 34,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Indonesia",
+    "Longitude": 120,
+    "Latitude": -5,
+    "Average_Tone": 3,
+    "Mentions": 9,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Iran",
+    "Longitude": 46.9923,
+    "Latitude": 35.3144,
+    "Average_Tone": 1,
+    "Mentions": 4,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Iran",
+    "Longitude": 50.2055,
+    "Latitude": 30.6693,
+    "Average_Tone": 6,
+    "Mentions": 3,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Iran",
+    "Longitude": 53,
+    "Latitude": 32,
+    "Average_Tone": 4,
+    "Mentions": 36,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Iraq",
+    "Longitude": 44,
+    "Latitude": 33,
+    "Average_Tone": 5,
+    "Mentions": 3,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Ireland",
+    "Longitude": -6.24889,
+    "Latitude": 53.3331,
+    "Average_Tone": 3,
+    "Mentions": 1,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Israel",
+    "Longitude": 34.3333,
+    "Latitude": 31.4167,
+    "Average_Tone": 6,
+    "Mentions": 6,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Japan",
+    "Longitude": 128.026,
+    "Latitude": 26.5206,
+    "Average_Tone": 3,
+    "Mentions": 18,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Japan",
+    "Longitude": 130.95,
+    "Latitude": 33.95,
+    "Average_Tone": 5,
+    "Mentions": 227,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Japan",
+    "Longitude": 135.75,
+    "Latitude": 35,
+    "Average_Tone": 6,
+    "Mentions": 27,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Japan",
+    "Longitude": 138,
+    "Latitude": 36,
+    "Average_Tone": 4,
+    "Mentions": 264,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Japan",
+    "Longitude": 139.751,
+    "Latitude": 35.685,
+    "Average_Tone": 4,
+    "Mentions": 211,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Japan",
+    "Longitude": 140.708,
+    "Latitude": 38.1689,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Japan",
+    "Longitude": 141.267,
+    "Latitude": 43.05,
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Jordan",
+    "Longitude": 35.0078,
+    "Latitude": 29.5267,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Jordan",
+    "Longitude": 36.208,
+    "Latitude": 32.3429,
+    "Average_Tone": 2,
+    "Mentions": 2,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Lebanon",
+    "Longitude": 35.6633,
+    "Latitude": 34.2789,
+    "Average_Tone": 5,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Libya",
+    "Longitude": 17,
+    "Latitude": 25,
+    "Average_Tone": 3,
+    "Mentions": 84,
+    "Goldstein": -8
+  },
+  {
+    "Country": "Malaysia",
+    "Longitude": 101.973,
+    "Latitude": 5.156,
+    "Average_Tone": 7,
+    "Mentions": 4,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Malaysia",
+    "Longitude": 114,
+    "Latitude": 1,
+    "Average_Tone": 5,
+    "Mentions": 3,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Mexico",
+    "Longitude": -97.45,
+    "Latitude": 15.9833,
+    "Average_Tone": 6,
+    "Mentions": 10,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Mexico",
+    "Longitude": -99,
+    "Latitude": 17.5833,
+    "Average_Tone": 2,
+    "Mentions": 4,
+    "Goldstein": -9
+  },
+  {
+    "Country": "Myanmar",
+    "Longitude": 97.5,
+    "Latitude": 25.7,
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Myanmar",
+    "Longitude": 97.5,
+    "Latitude": 26,
+    "Average_Tone": 6,
+    "Mentions": 36,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Nepal",
+    "Longitude": 82.0732,
+    "Latitude": 29.5491,
+    "Average_Tone": 4,
+    "Mentions": 7,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Nepal",
+    "Longitude": 82.5154,
+    "Latitude": 29.7302,
+    "Average_Tone": 4,
+    "Mentions": 2,
+    "Goldstein": -5
+  },
+  {
+    "Country": "NewZealand",
+    "Longitude": 169.117,
+    "Latitude": -43.8,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -5
+  },
+  {
+    "Country": "NewZealand",
+    "Longitude": 173.5,
+    "Latitude": -41.75,
+    "Average_Tone": 6,
+    "Mentions": 3,
+    "Goldstein": -4
+  },
+  {
+    "Country": "NewZealand",
+    "Longitude": 178.133,
+    "Latitude": -37.7667,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Nicaragua",
+    "Longitude": -83.698,
+    "Latitude": 10.9389,
+    "Average_Tone": 3,
+    "Mentions": 14,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Oceans",
+    "Longitude": -90,
+    "Latitude": 25,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Oceans",
+    "Longitude": 20,
+    "Latitude": 35,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Oceans",
+    "Longitude": 80,
+    "Latitude": 76,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Pakistan",
+    "Longitude": 71.5733,
+    "Latitude": 34.0078,
+    "Average_Tone": 5,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Pakistan",
+    "Longitude": 73.1667,
+    "Latitude": 33.7,
+    "Average_Tone": 6,
+    "Mentions": 3,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Panama",
+    "Longitude": -80.2333,
+    "Latitude": 8.56667,
+    "Average_Tone": 2,
+    "Mentions": 9,
+    "Goldstein": -6
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 121.846,
+    "Latitude": 13.9427,
+    "Average_Tone": 6,
+    "Mentions": 3,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 122.267,
+    "Latitude": 16.5167,
+    "Average_Tone": 4,
+    "Mentions": 6,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Philippines",
+    "Longitude": 123.733,
+    "Latitude": 13.1333,
+    "Average_Tone": 10,
+    "Mentions": 2,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Poland",
+    "Longitude": 20,
+    "Latitude": 52,
+    "Average_Tone": 2,
+    "Mentions": 17,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Portugal",
+    "Longitude": -9.13333,
+    "Latitude": 38.7167,
+    "Average_Tone": 7,
+    "Mentions": 1,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Romania",
+    "Longitude": 23.1167,
+    "Latitude": 46.2833,
+    "Average_Tone": 5,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Russia",
+    "Longitude": 30.2642,
+    "Latitude": 59.8944,
+    "Average_Tone": 4,
+    "Mentions": 66,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Russia",
+    "Longitude": 37.4297,
+    "Latitude": 55.897,
+    "Average_Tone": 1,
+    "Mentions": 5,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Russia",
+    "Longitude": 37.6156,
+    "Latitude": 55.7522,
+    "Average_Tone": 3,
+    "Mentions": 65,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Russia",
+    "Longitude": 38.0848,
+    "Latitude": 44.5622,
+    "Average_Tone": 0,
+    "Mentions": 6,
+    "Goldstein": -5
+  },
+  {
+    "Country": "Rwanda",
+    "Longitude": 29.6333,
+    "Latitude": -1.38333,
+    "Average_Tone": 4,
+    "Mentions": 7,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Senegal",
+    "Longitude": -17.6339,
+    "Latitude": 14.7367,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Singapore",
+    "Longitude": 103.8,
+    "Latitude": 1.3667,
+    "Average_Tone": 7,
+    "Mentions": 3,
+    "Goldstein": -5
+  },
+  {
+    "Country": "SouthAfrica",
+    "Longitude": 24,
+    "Latitude": -29,
+    "Average_Tone": 3,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "SouthAfrica",
+    "Longitude": 28.0833,
+    "Latitude": -26.2,
+    "Average_Tone": 3,
+    "Mentions": 61,
+    "Goldstein": -3
+  },
+  {
+    "Country": "SouthKorea",
+    "Longitude": 127,
+    "Latitude": 37.5664,
+    "Average_Tone": 4,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "SouthSudan",
+    "Longitude": 30,
+    "Latitude": 8,
+    "Average_Tone": 3,
+    "Mentions": 5,
+    "Goldstein": -2
+  },
+  {
+    "Country": "SriLanka",
+    "Longitude": 80.2467,
+    "Latitude": 6.7115,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -4
+  },
+  {
+    "Country": "SriLanka",
+    "Longitude": 80.6069,
+    "Latitude": 5.93194,
+    "Average_Tone": 3,
+    "Mentions": 10,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Sweden",
+    "Longitude": 15,
+    "Latitude": 62,
+    "Average_Tone": 4,
+    "Mentions": 12,
+    "Goldstein": -3
+  },
+  {
+    "Country": "Switzerland",
+    "Longitude": 8,
+    "Latitude": 47,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "Thailand",
+    "Longitude": 100.517,
+    "Latitude": 13.75,
+    "Average_Tone": 5,
+    "Mentions": 21,
+    "Goldstein": -10
+  },
+  {
+    "Country": "Tunisia",
+    "Longitude": 9,
+    "Latitude": 34,
+    "Average_Tone": 3,
+    "Mentions": 41,
+    "Goldstein": -7
+  },
+  {
+    "Country": "Turkey",
+    "Longitude": 35,
+    "Latitude": 39,
+    "Average_Tone": 3,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "Uganda",
+    "Longitude": 31.8006,
+    "Latitude": 1.20062,
+    "Average_Tone": 7,
+    "Mentions": 2,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": -0.116667,
+    "Latitude": 51.5,
+    "Average_Tone": 4,
+    "Mentions": 93,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": -2,
+    "Latitude": 54,
+    "Average_Tone": 4,
+    "Mentions": 171,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": -4.97083,
+    "Latitude": 51.8017,
+    "Average_Tone": 2,
+    "Mentions": 12,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedKingdom",
+    "Longitude": 0.083333,
+    "Latitude": 52.3333,
+    "Average_Tone": 8,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -101.339,
+    "Latitude": 36.1259,
+    "Average_Tone": 4,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -101.501,
+    "Latitude": 42.0003,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -105.36,
+    "Latitude": 43.4852,
+    "Average_Tone": 2,
+    "Mentions": 27,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -105.887,
+    "Latitude": 32.408,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -106.237,
+    "Latitude": 34.8375,
+    "Average_Tone": 4,
+    "Mentions": 86,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -109.538,
+    "Latitude": 35.1242,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -111.388,
+    "Latitude": 33.7712,
+    "Average_Tone": 4,
+    "Mentions": 32,
+    "Goldstein": -8
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -111.505,
+    "Latitude": 35.1667,
+    "Average_Tone": 4,
+    "Mentions": 20,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -111.891,
+    "Latitude": 40.7608,
+    "Average_Tone": 3,
+    "Mentions": 28,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -112.691,
+    "Latitude": 39.1559,
+    "Average_Tone": 3,
+    "Mentions": 116,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -114.081,
+    "Latitude": 46.7588,
+    "Average_Tone": 4,
+    "Mentions": 36,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -117.157,
+    "Latitude": 32.7153,
+    "Average_Tone": 3,
+    "Mentions": 13,
+    "Goldstein": -8
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -118.201,
+    "Latitude": 34.3667,
+    "Average_Tone": 3,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -118.244,
+    "Latitude": 34.0522,
+    "Average_Tone": 5,
+    "Mentions": 18,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -118.388,
+    "Latitude": 45.9326,
+    "Average_Tone": 4,
+    "Mentions": 7,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -120.189,
+    "Latitude": 36.6066,
+    "Average_Tone": 6,
+    "Mentions": 7,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -122.143,
+    "Latitude": 37.4419,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -122.275,
+    "Latitude": 47.564,
+    "Average_Tone": 4,
+    "Mentions": 1,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -122.419,
+    "Latitude": 37.7749,
+    "Average_Tone": 4,
+    "Mentions": 36,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -157.858,
+    "Latitude": 21.3069,
+    "Average_Tone": 7,
+    "Mentions": 9,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -69.6637,
+    "Latitude": 44.564,
+    "Average_Tone": 5,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -71.5159,
+    "Latitude": 42.9465,
+    "Average_Tone": 7,
+    "Mentions": 27,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -72.512,
+    "Latitude": 41.4773,
+    "Average_Tone": 4,
+    "Mentions": 18,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -72.5431,
+    "Latitude": 41.5165,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -72.7622,
+    "Latitude": 41.5834,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -74.659,
+    "Latitude": 40.3487,
+    "Average_Tone": 9,
+    "Mentions": 3,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -75.5148,
+    "Latitude": 39.3498,
+    "Average_Tone": 4,
+    "Mentions": 1,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -76.4922,
+    "Latitude": 38.9784,
+    "Average_Tone": 2,
+    "Mentions": 7,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -77.3411,
+    "Latitude": 38.9687,
+    "Average_Tone": 2,
+    "Mentions": 2,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -80.1434,
+    "Latitude": 26.1223,
+    "Average_Tone": 2,
+    "Mentions": 8,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -80.1937,
+    "Latitude": 25.7743,
+    "Average_Tone": 7,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -80.3181,
+    "Latitude": 42.0003,
+    "Average_Tone": 6,
+    "Mentions": 5,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -80.9066,
+    "Latitude": 33.8191,
+    "Average_Tone": 4,
+    "Mentions": 20,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -80.9165,
+    "Latitude": 33.9696,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -81.4601,
+    "Latitude": 39.199,
+    "Average_Tone": 4,
+    "Mentions": 23,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -81.5071,
+    "Latitude": 40.5751,
+    "Average_Tone": 5,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -81.6598,
+    "Latitude": 30.3119,
+    "Average_Tone": 10,
+    "Mentions": 4,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -83.6746,
+    "Latitude": 37.5826,
+    "Average_Tone": 5,
+    "Mentions": 1,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -85.7594,
+    "Latitude": 38.2542,
+    "Average_Tone": 5,
+    "Mentions": 3,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -86.8073,
+    "Latitude": 32.799,
+    "Average_Tone": 7,
+    "Mentions": 7,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -88.0198,
+    "Latitude": 44.5192,
+    "Average_Tone": 6,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -88.9334,
+    "Latitude": 38.3,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -89.6812,
+    "Latitude": 32.7673,
+    "Average_Tone": 5,
+    "Mentions": 34,
+    "Goldstein": -7
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -90.0287,
+    "Latitude": 30.0038,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -91.5943,
+    "Latitude": 30.7385,
+    "Average_Tone": 5,
+    "Mentions": 9,
+    "Goldstein": -10
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -92.1066,
+    "Latitude": 46.7833,
+    "Average_Tone": 8,
+    "Mentions": 4,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -92.3809,
+    "Latitude": 34.9513,
+    "Average_Tone": 4,
+    "Mentions": 11,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -96.8005,
+    "Latitude": 38.5111,
+    "Average_Tone": 4,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -96.8067,
+    "Latitude": 32.7831,
+    "Average_Tone": 5,
+    "Mentions": 36,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -97,
+    "Latitude": 38,
+    "Average_Tone": 4,
+    "Mentions": 549,
+    "Goldstein": -4
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -97.3964,
+    "Latitude": 27.8006,
+    "Average_Tone": 8,
+    "Mentions": 9,
+    "Goldstein": -5
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -98.2883,
+    "Latitude": 41.1289,
+    "Average_Tone": 5,
+    "Mentions": 74,
+    "Goldstein": -6
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -98.4936,
+    "Latitude": 29.4241,
+    "Average_Tone": 6,
+    "Mentions": 9,
+    "Goldstein": -2
+  },
+  {
+    "Country": "UnitedStates",
+    "Longitude": -99.793,
+    "Latitude": 47.5362,
+    "Average_Tone": 4,
+    "Mentions": 1,
+    "Goldstein": -10
+  }
+]

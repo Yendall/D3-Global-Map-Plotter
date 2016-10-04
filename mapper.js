@@ -19,25 +19,25 @@ function readSingleFile(e) {
 
 function getProportion(value) {
     if (between(value, 0, 30)) {
-        return 1.0;
-    }
-    if (between(value, 30, 60)) {
-        return 1.5;
-    }
-    if (between(value, 60, 100)) {
         return 2.0;
     }
-    if (between(value, 100, 300)) {
+    if (between(value, 30, 60)) {
         return 2.5;
     }
-    if (between(value, 300, 500)) {
+    if (between(value, 60, 100)) {
         return 3.0;
     }
+    if (between(value, 100, 300)) {
+        return 3.5;
+    }
+    if (between(value, 300, 500)) {
+        return 4.5;
+    }
     if (between(value, 500, 1000)) {
-        return 4.0;
+        return 5.0;
     }
     if (between(value, 1000, 2000)) {
-        return 4.5;
+        return 5.5;
     }
 }
 
