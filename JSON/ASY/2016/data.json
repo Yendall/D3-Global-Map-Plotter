@@ -1,0 +1,36 @@
+Log Type: syslog
+
+Log Upload Time: Tue Oct 04 13:45:33 +0000 2016
+
+Log Length: 4053
+2016-10-04 13:44:59,884 INFO [main] org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2016-10-04 13:44:59,898 INFO [main] com.amazon.ws.emr.hadoop.metrics2.sink.cloudwatch.CloudWatchSink: Initializing the CloudWatchSink for metrics.
+2016-10-04 13:45:00,034 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSinkAdapter: Sink cloudwatch started
+2016-10-04 13:45:00,213 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 300 second(s).
+2016-10-04 13:45:00,213 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MapTask metrics system started
+2016-10-04 13:45:00,233 INFO [main] org.apache.hadoop.mapred.YarnChild: Executing with tokens:
+2016-10-04 13:45:00,233 INFO [main] org.apache.hadoop.mapred.YarnChild: Kind: mapreduce.job, Service: job_1475541508815_0011, Ident: (org.apache.hadoop.mapreduce.security.token.JobTokenIdentifier@61e6f216)
+2016-10-04 13:45:00,474 INFO [main] org.apache.hadoop.mapred.YarnChild: Sleeping for 0ms before retrying again. Got null now.
+2016-10-04 13:45:01,299 INFO [main] org.apache.hadoop.mapred.YarnChild: mapreduce.cluster.local.dir for child: /mnt/yarn/usercache/hadoop/appcache/application_1475541508815_0011
+2016-10-04 13:45:03,206 INFO [main] org.apache.hadoop.conf.Configuration.deprecation: session.id is deprecated. Instead, use dfs.metrics.session-id
+2016-10-04 13:45:04,004 INFO [main] org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter: File Output Committer Algorithm version is 1
+2016-10-04 13:45:04,036 INFO [main] org.apache.hadoop.mapred.Task:  Using ResourceCalculatorProcessTree : [ ]
+2016-10-04 13:45:04,515 INFO [main] org.apache.hadoop.mapred.MapTask: Processing split: s3://gdelt-open-data/events/20150302.export.csv:67108864+6724286
+2016-10-04 13:45:10,097 INFO [main] org.apache.hadoop.mapred.MapTask: (EQUATOR) 0 kvi 52428796(209715184)
+2016-10-04 13:45:10,097 INFO [main] org.apache.hadoop.mapred.MapTask: mapreduce.task.io.sort.mb: 200
+2016-10-04 13:45:10,097 INFO [main] org.apache.hadoop.mapred.MapTask: soft limit at 167772160
+2016-10-04 13:45:10,097 INFO [main] org.apache.hadoop.mapred.MapTask: bufstart = 0; bufvoid = 209715200
+2016-10-04 13:45:10,097 INFO [main] org.apache.hadoop.mapred.MapTask: kvstart = 52428796; length = 13107200
+2016-10-04 13:45:10,114 INFO [main] org.apache.hadoop.mapred.MapTask: Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+2016-10-04 13:45:10,322 INFO [main] com.amazon.ws.emr.hadoop.fs.s3n.S3NativeFileSystem: Opening 's3://gdelt-open-data/events/20150302.export.csv' for reading
+2016-10-04 13:45:10,543 INFO [main] com.hadoop.compression.lzo.GPLNativeCodeLoader: Loaded native gpl library
+2016-10-04 13:45:10,552 INFO [main] com.hadoop.compression.lzo.LzoCodec: Successfully loaded & initialized native-lzo library [hadoop-lzo rev 3454067872d644fcdf99dbacccc3e0acfcd41bc0]
+2016-10-04 13:45:10,571 INFO [main] com.amazon.ws.emr.hadoop.fs.s3n.S3NativeFileSystem: Stream for key 'events/20150302.export.csv' seeking to position '67108864'
+2016-10-04 13:45:12,866 INFO [main] org.apache.hadoop.mapred.MapTask: Starting flush of map output
+2016-10-04 13:45:12,881 INFO [main] org.apache.hadoop.io.compress.CodecPool: Got brand-new compressor [.snappy]
+2016-10-04 13:45:12,915 INFO [main] org.apache.hadoop.mapred.Task: Task:attempt_1475541508815_0011_m_002582_0 is done. And is in the process of committing
+2016-10-04 13:45:13,152 INFO [main] org.apache.hadoop.mapred.Task: Task 'attempt_1475541508815_0011_m_002582_0' done.
+2016-10-04 13:45:13,153 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Stopping MapTask metrics system...
+2016-10-04 13:45:13,154 INFO [cloudwatch] org.apache.hadoop.metrics2.impl.MetricsSinkAdapter: cloudwatch thread interrupted.
+2016-10-04 13:45:13,155 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MapTask metrics system stopped.
+2016-10-04 13:45:13,155 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MapTask metrics system shutdown complete.
