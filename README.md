@@ -1,5 +1,5 @@
-# D3-Global-Map-Plotter
-A simple graph generator using Javascript on dataset results from big data using MapReduce
+# D3 Global Map Plotter
+A simple graph generator using Javascript on dataset results from big data using MapReduce. Graphs created using D3.js
 ## Output:
 <p>
   <img src="https://github.com/Yendall/D3-Global-Map-Plotter/blob/master/graph.png">
